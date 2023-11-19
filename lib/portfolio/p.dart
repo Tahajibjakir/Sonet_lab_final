@@ -34,7 +34,7 @@ class _PortfolioScreenState extends State<PortfolioScreen> {
           children: [
             CircleAvatar(
               radius: 80.0,
-              backgroundImage: AssetImage("assets/icons/p.jpg"),
+              backgroundImage: AssetImage("assets/images/r.jpg"),
             ),
             SizedBox(height: 16.0),
             Text(
